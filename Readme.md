@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Олег Волохов](https://up.htmlacademy.ru/nodejs-2/7/user/36491).
-* Наставник: `Неизвестно`.
+* Наставник: [Rail Sakhaviev](https://htmlacademy.ru/profile/id1331891).
 
 ---
 
